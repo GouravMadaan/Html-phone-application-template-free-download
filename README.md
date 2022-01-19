@@ -1,6 +1,6 @@
 # Free phone app template with html
 
-Html Template for phone application for downloading apps something like google play
+"this is an addin gline by me "Html Template for phone application for downloading apps something like google play
 
 ## Installation
 
